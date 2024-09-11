@@ -1,0 +1,9 @@
+build
+config.json
+*main.spec
+*main.exe
+Nextcloud Media Player.exe
+Nextcloud Media Player debug-version-release-v1.0.0.spec
+Nextcloud Media Player v1.0.0-release.spec
+dist/Nextcloud-Media-Player-amd64.exe
+Nextcloud-Media-Player-amd64.spec
